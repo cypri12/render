@@ -1,6 +1,7 @@
 {
   "name": "proxy-server",
   "version": "1.0.0",
+  "description": "Serveur proxy pour LibreTranslate",
   "main": "proxy-server.js",
   "scripts": {
     "start": "node proxy-server.js"
@@ -12,3 +13,4 @@
     "node-fetch": "^2.6.1"
   }
 }
+
